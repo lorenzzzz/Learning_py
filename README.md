@@ -1,2 +1,5 @@
-# Learning_py
-This repo is mainly intended for me to store my stuff and such if you like you can look over it and give me feedback or do whatever
+# Learning python
+
+  - This is made for me to learn
+  - This is not meant to be the best most clean code
+  - If you have any complaints about something in here tell me I am happy to receive critic since it helps me to learn!
