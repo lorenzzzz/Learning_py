@@ -26,3 +26,8 @@ body {
 .topnav .icon {
 	display: none;
 }
+.x {
+  float: right;
+  background-color: #e74c3c;
+  font-size: 22px;
+}
