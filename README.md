@@ -1,4 +1,4 @@
-# Learning python
+# Learning repo
 
   - This is made for me to learn
   - This is not meant to be the best most clean code
